@@ -1,6 +1,6 @@
 # OMP-Test Projects
 
-**AltherPride (ATR) – Private Server Module**
+**ATR (Severly) – Private Server Module**
 
 This is a privately developed software project intended exclusively for personal use by the original author, **Severly**.  
 The contents of this repository include proprietary code and configurations that are part of a larger closed-source system.
