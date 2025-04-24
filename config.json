@@ -27,7 +27,7 @@
         "gravity": 0.008,
         "group_player_objects": false,
         "lag_compensation_mode": 1,
-        "map": "",
+        "map": "San Andreas",
         "mode": "",
         "nametag_draw_radius": 70.0,
         "player_marker_draw_radius": 250.0,
@@ -49,7 +49,7 @@
         "vehicle_respawn_time": 10000,
         "weather": 10
     },
-    "language": "",
+    "language": "English/Bahasa Indonesia",
     "logging": {
         "enable": true,
         "file": "log.txt",
@@ -97,7 +97,7 @@
     "pawn": {
         "legacy_plugins": [],
         "main_scripts": [
-            "gungame 1"
+            "main 1"
         ],
         "side_scripts": []
     },
